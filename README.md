@@ -1,5 +1,9 @@
 ## Hello I'm [Valentin](https://valentinduffet.fr), welcome 👋
 
+<code><img height="20" src="https://img2.freepng.fr/20180713/hfv/kisspng-logo-version-control-gitlab-brand-e-commerce-gitlab-5b482945dfad48.8320886315314558139162.jpg"> 
+  [GitLab](https://gitlab.com/ValentinDft)
+</code>
+
 ## My skills
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML</code>
