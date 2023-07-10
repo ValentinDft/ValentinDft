@@ -1,43 +1,22 @@
-## Hello I'm [Valentin](https://valentinduffet.fr), welcome 👋
+## Hello I'm [Valentin](https://valentindft.fr), welcome 👋
 
-<code><img height="20" src="https://img2.freepng.fr/20180713/hfv/kisspng-logo-version-control-gitlab-brand-e-commerce-gitlab-5b482945dfad48.8320886315314558139162.jpg"> 
-  [GitLab](https://gitlab.com/ValentinDft)
-</code>
+<p>Front-end Developer from Montpellier, France</p>
 
 ## My skills
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> CSS</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code>
-<code>Redux</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> Node.js</code>
-<code>Express</code>
-<code><img height="20" src="https://www.mongodb.com/assets/images/global/favicon.ico"> MongoDB</code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"> React Native</code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"> Git</code>
-<code>Heroku</code>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![REACT-ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![TESTING-LIBRARY](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 
+## Tools
+
+![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS-CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
+<br></br>
+![STAT](https://github-readme-stats.vercel.app/api?username=ValentinDft&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true)
+![STAT2](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinDft&layout=compact&theme=vue-dark&hide_border=true)
 
 ## 📫 Contact me
 
-[![Linkedin: valentin-duffet](https://img.shields.io/badge/-valentinduffet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentin-duffet/)](https://www.linkedin.com/in/valentin-duffet/)
+[![Linkedin: valentin-duffet](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-duffet/)
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=valentinDft)
-
-<!--
-**ValentinDft/ValentinDft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
   
